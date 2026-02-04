@@ -1,0 +1,29 @@
+body {
+    background-color: slateblue;
+    color: white;
+    font-family: sans-serif;
+}
+
+.body {
+    background-color: midnightblue;
+    border: solid 5px white;
+}
+
+.title {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+#buutton {
+    border: solid 3px white;
+    background-color: lightblue;
+    color: white;
+}
+
+h6 {
+    padding: 15px 0 0 0;
+}
+

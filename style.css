@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    font-family: Helvetica;
+}
+
+#title {
+    text-align: center;
+    background-color: lightyellow;
+    border: solid 5px white;
+}
+
+img {
+    padding: 15px 0 0 0;
+}
+
+.produtos {
+    background-color: white;
+}
+
+h6 {
+    padding: 15px 0 0 0;
+}
+
+.Button {
+    text-align: center;
+    height: 50px;
+    background-color: slateblue;
+}
+
+#buttoon {
+    background-color: blueviolet;
+    border: solid 3px white;
+    color: white;
+}
+
